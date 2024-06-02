@@ -15,7 +15,7 @@ export default function Partners() {
             <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
 
             <div className="flex flex-col justify-center text-white rounded">
-            <a href="">
+            <a href="https://discord.com/oauth2/authorize?client_id=1243875815914213411&scope=bot&permissions=27111989278">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://i.hizliresim.com/e9mwrqg.jpg" />
                             <div>
@@ -32,7 +32,7 @@ export default function Partners() {
 
 
                             <div className="flex flex-col justify-center text-white rounded">
-            <a href="">
+            <a href="https://discord.com/oauth2/authorize?client_id=1244620556641239060">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://i.hizliresim.com/e9mwrqg.jpg" />
                             <div>
