@@ -56,7 +56,7 @@ function MyApp({ Component, pageProps }) {
         <div style={{ zIndex: 99999 }} className="fixed bg-black/75 w-full h-screen flex justify-center items-center pointer-events-none">
             <div className="flex items-center gap-x-6 animate-pulse">
                 <div className="text-center">
-                    <p className="text-6xl mb-5 font-semibold">Karta</p>
+                    <p className="text-6xl mb-5 font-semibold">CostaV</p>
                     <p className="uppercase text-xl font-semibold text-white"><i className="fal fa-spinner-third fa-spin" /></p>
                 </div>
             </div>
