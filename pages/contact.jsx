@@ -22,7 +22,7 @@ export default function Home() {
                 </a>
                 <a target="_blank" rel="norefferer" href="https://top.gg/bot/1244620556641239060">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
-                        <i className="fab fa-top.gg fa-2x" />
+                        <i className="fab fa-https://top.gg/tr fa-2x" />
                         <p className="font-semibold text-xl">Top.gg Oy Ver</p>
                     </div>
                 </a>
